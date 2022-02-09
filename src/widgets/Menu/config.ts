@@ -2,7 +2,7 @@ export const links = [
   {
     label: "Home",
     icon: "HomeIcon",
-    href: "/",
+    href: "https://app.calculux.finance",
   },
   {
     label: "Trade",
@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.wakandaswap.finance",
+        href: "https://dex.calculux.finance",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.wakandaswap.finance/#/pool",
+        href: "https://dex.calculux.finance/#/pool",
       },
     ],
   },
@@ -59,19 +59,19 @@ export const links = [
   //   items: [
   //     {
   //       label: "Overview",
-  //       href: "https://wakandaswap.info",
+  //       href: "#",
   //     },
   //     {
   //       label: "Tokens",
-  //       href: "https://wakandaswap.info/tokens",
+  //       href: "#",
   //     },
   //     {
   //       label: "Pairs",
-  //       href: "https://wakandaswap.info/pairs",
+  //       href: "#",
   //     },
   //     {
   //       label: "Accounts",
-  //       href: "https://wakandaswap.info/accounts",
+  //       href: "#",
   //     },
   //   ],
   // },
@@ -95,19 +95,19 @@ export const links = [
   //   items: [
   //     {
   //       label: "Voting",
-  //       href: "https://voting.wakandaswap.finance",
+  //       href: "#",
   //     },
   //     {
   //       label: "Github",
-  //       href: "https://github.com/pancakeswap",
+  //       href: "#",
   //     },
   //     {
   //       label: "Docs",
-  //       href: "https://docs.wakandaswap.finance",
+  //       href: "#",
   //     },
   //     {
   //       label: "Blog",
-  //       href: "https://wakandaswap.medium.com",
+  //       href: "#",
   //     },
   //   ],
   // },
@@ -117,22 +117,22 @@ export const socials = [
   {
     label: "Github",
     icon: "GithubIcon",
-    href: "https://github.com/wakandaswap",
+    href: "https://github.com/Calculux-finance",
   },
-  // {
-  //   label: "Docs",
-  //   icon: "GitbookIcon",
-  //   href: "https://docs.wakandaswap.finance",
-  // },
+  {
+    label: "Docs",
+    icon: "GitbookIcon",
+    href: "https://calcdevs.gitbook.io/calculux-finance-v.01/",
+  },
   {
     label: "Medium",
     icon: "MediumIcon",
-    href: "https://wakandainu.medium.com",
+    href: "#",
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/wakandainu",
+    href: "https://twitter.com/calculuxEx",
   },
   {
     label: "Telegram",
@@ -140,11 +140,11 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/wakandainu",
+        href: "https://t.me/calculuxExannouncement",
       },
       // {
       //   label: "Announcements",
-      //   href: "https://t.me/WakandaSwapAnn",
+      //   href: "#",
       // },
     ],
   },

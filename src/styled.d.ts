@@ -1,7 +1,7 @@
 import "styled-components";
-import { WakandaTheme } from "./theme";
+import { CalculuxTheme } from "./theme";
 
 declare module "styled-components" {
   /* eslint-disable @typescript-eslint/no-empty-interface */
-  export interface DefaultTheme extends WakandaTheme {}
+  export interface DefaultTheme extends CalculuxTheme {}
 }

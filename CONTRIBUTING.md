@@ -1,7 +1,7 @@
-# Contributing to the Wakanda ecosystem
+# Contributing to the Calculux ecosystem
 
 Thanks for taking the time to contribute !
-You can start by reading our [Contribution guidelines](https://docs.wakandaswap.com/code/contributing) first.
+You can start by reading our [Contribution guidelines](https://docs.calculux.finance/code/contributing) first.
 
 ## Setup
 
